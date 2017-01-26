@@ -1,4 +1,4 @@
-update=14/01/2017 14:11:28
+update=26/01/2017 21:19:03
 version=1
 last_client=kicad
 [pcbnew]
@@ -140,3 +140,13 @@ LibName108=C:/Users/Will/Documents/Github/kicad_libraries/kicad-library/library/
 LibName109=C:/Users/Will/Documents/Github/kicad_libraries/kicad-library/library/Xicor
 LibName110=C:/Users/Will/Documents/Github/kicad_libraries/kicad-library/library/xilinx
 LibName111=C:/Users/Will/Documents/Github/kicad_libraries/kicad-library/library/Zilog
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

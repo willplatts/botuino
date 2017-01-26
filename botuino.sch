@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:test1-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -1648,7 +1647,7 @@ U 1 1 5884D8C3
 P 5650 7100
 F 0 "Q1" H 5850 7175 50  0000 L CNN
 F 1 "BC546" H 5850 7100 50  0000 L CNN
-F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 5850 7025 50  0000 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 3950 6750 50  0000 L CIN
 F 3 "" H 5650 7100 50  0000 L CNN
 	1    5650 7100
 	1    0    0    -1  
@@ -1683,4 +1682,12 @@ F 3 "" H 5750 6800 50  0000 C CNN
 $EndComp
 Wire Wire Line
 	5750 6900 5750 6800
+Text Notes 7300 7250 0    60   ~ 0
+1 1
+Text Notes 7500 7500 0    60   ~ 0
+Botuino
+Text Notes 8200 7650 0    60   ~ 0
+22/01/2017
+Text Notes 10650 7650 0    60   ~ 0
+v1.0
 $EndSCHEMATC
