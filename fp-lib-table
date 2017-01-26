@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name OPENHARDWARE)(type Legacy)(uri "$(KIPRJMOD)\\OPENHARDWARE.mod")(options "")(descr ""))
+)
